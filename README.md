@@ -2,7 +2,7 @@
 
 ### About
 
-This script will teleport you to every coin in the map therefore collecting the coin & earning money.
+This script will teleport you to every coin in the map therefore collecting the coin which gives you **medals**.
 
 This script is made for [NikeLand](https://www.roblox.com/games/7462526249/NIKELAND) and that game only.
 
