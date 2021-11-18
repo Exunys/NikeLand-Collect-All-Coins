@@ -1,4 +1,4 @@
-# MikeLand - Collect All Coins
+# NikeLand - Collect All Coins
 
 ### About
 
